@@ -80,7 +80,7 @@ export default function HamburgerMenu({
       {/* Top-right social links (Twitter/X, GitHub, Document placeholder) */}
       <div className="flex items-center space-x-2">
         <button
-          onClick={() => window.open('https://x.com/IllusioAI', '_blank')}
+          onClick={() => window.open('https://x.com/Fibonaccidotac', '_blank')}
           className="w-10 h-10 flex items-center justify-center hover:scale-110 hover:drop-shadow-lg transition-all duration-200"
           title="Twitter/X"
           aria-label="Twitter/X"
@@ -91,7 +91,7 @@ export default function HamburgerMenu({
         </button>
 
         <button
-          onClick={() => window.open('https://github.com/IllusioAI/Illusio', '_blank')}
+          onClick={() => window.open('https://github.com/FibonacciSol/', '_blank')}
           className="w-10 h-10 flex items-center justify-center hover:scale-110 hover:drop-shadow-lg transition-all duration-200"
           title="GitHub"
           aria-label="GitHub"
